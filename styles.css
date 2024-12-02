@@ -48,7 +48,7 @@ header nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-    background-image: url('../images/hero.jpg');
+    background-image: url('hero.png');
     background-size: cover;
     background-position: center;
     text-align: center;
